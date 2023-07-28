@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Shows the lines containing the word bash, thus showing the PID of the current bash process
+ps auxf | grep bash

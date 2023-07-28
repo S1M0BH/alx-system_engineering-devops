@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# 7-Highlander operation stopped
+pkill -f 7-highlander

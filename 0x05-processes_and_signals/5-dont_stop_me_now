@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#4 Kills to infinity and paper
+
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
